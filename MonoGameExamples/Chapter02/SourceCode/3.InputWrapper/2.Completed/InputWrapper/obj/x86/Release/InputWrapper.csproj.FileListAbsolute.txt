@@ -1,0 +1,12 @@
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\Content\UWB-JPG.xnb
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\Content\UWB-PNG.xnb
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\Program.cs
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\InputWrapper.exe
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\InputWrapper.pdb
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\Lidgren.Network.dll
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\MonoGame.Framework.dll
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\OpenTK.dll
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\bin\WindowsGL\Release\Tao.Sdl.dll
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\obj\x86\Release\InputWrapper.csprojResolveAssemblyReference.cache
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\obj\x86\Release\InputWrapper.exe
+E:\Dropbox\2013.10.MonoGameBook\Work\MonoBookExamples\Chapter02\SourceCode\3.InputWrapper\2.Completed\InputWrapper\obj\x86\Release\InputWrapper.pdb
